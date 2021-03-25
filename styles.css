@@ -290,7 +290,7 @@ body {
         width: 24px;
         border-top: 0.75rem solid hsl(217, 19%, 35%);;
         border-right: 0.75rem solid transparent; 
-        border-bottom: 0.75rem solid transparent;
+        /* border-bottom: 0.75rem solid transparent; */
         border-left: 0.75rem solid transparent; 
     }
     
